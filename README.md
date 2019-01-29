@@ -1,6 +1,8 @@
 # sonicart
 todo:
-Brainstorm about the sonic art project
+- Brainstorm about the sonic art project
+<br>
+- Check the video on Kris's Page
 <br>
 2019-01-29
 <br>
