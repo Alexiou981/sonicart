@@ -3,7 +3,7 @@ todo:
 - Brainstorm about the sonic art project
 - Check the video on Kris's Page
 <br>
-Week Commencing 2019-01-29
+2019-02-04 (Mon)
 <br>
 Brainstorming ideas:
 <br>
