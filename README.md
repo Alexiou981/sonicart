@@ -15,3 +15,7 @@ Brainstorming ideas:
 <br>
 - Choose either of these ideas or merge them all into one aiming for an aesthetically nice outcome.
 <br>
+
+todo:
+- Find a way to make all these three ideas work together as one project.
+- Think about/research on how you can get good quality recording out of a portable recorder.
