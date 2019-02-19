@@ -18,7 +18,7 @@ Brainstorming ideas:
 - Choose either of these ideas or merge them all into one aiming for an aesthetically nice outcome.
 <br>
 
-Weel 2
+Week 2
 <br>
 todo:
 - Find a way to make all these three ideas work together as one project.
