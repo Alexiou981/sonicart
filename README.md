@@ -1,4 +1,6 @@
 # sonicart
+Week1
+<br>
 todo:
 - Brainstorm about the sonic art project
 - Check the video on Kris's Page
@@ -16,6 +18,8 @@ Brainstorming ideas:
 - Choose either of these ideas or merge them all into one aiming for an aesthetically nice outcome.
 <br>
 
+Weel 2
+<br>
 todo:
 - Find a way to make all these three ideas work together as one project.
 - Think about/research on how you can get good quality recording out of a portable recorder.
