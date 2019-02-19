@@ -17,6 +17,7 @@ Brainstorming ideas:
 <br>
 - Choose either of these ideas or merge them all into one aiming for an aesthetically nice outcome.
 <br>
+<br>
 
 Week 2
 <br>
