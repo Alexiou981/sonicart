@@ -1,5 +1,5 @@
 # sonicart
-Week 2
+Week 2 (w/c 2019-02-04)
 <br>
 todo:
 - Brainstorm about the sonic art project
@@ -21,7 +21,7 @@ Brainstorming ideas:
 <br>
 <br>
 
-Week 3
+Week 3 (w/c 2019-02-11)
 <br>
 todo:
 - Find a way to make all these three ideas work together as one project.
@@ -32,3 +32,17 @@ todo:
 Coming up with new ideas:
 <br> 
 While being away I was able to think about my ideas for the project and I realised that having to record a public place such as the main hall of the university might require the consent of any person whose voice will be heard in the recording. The same applies for the idea of recording my collegues. Hence, I decided instead of spending time trying to ask permission from each individual for the recording to focus on a project that will not include any ethical barriers.
+<br>
+<br>
+
+Week 4 (w/c 2019-02-18)
+<br>
+todo:
+- Brainstorm more specifically in order to find an idea for a project that will be of personal interst
+- Listen to the 'Akimbo' podcast S.3 Episodes 18 & 19 on the meaning of art and the idea of what is considered 'normal'.
+<br>
+2019-02-21 (Thu)
+<br>
+Sonic Art project for submission:
+<br>
+I decided to record different sounds throughout my day such as the kettle boiling water, me sipping coffee, locking the door of the house, handling the microwave at my workplace etc. Then I will make a composition out of it and it will be a representation of the sounds in our daily lives that we do not pay too much attention due to the extremely high use of technology. It will be a composition based on ambient sounds that Cage used to consider part of his 4'33'' piece, but in my case I will record these sounds and I will create an actual composition out of them.
