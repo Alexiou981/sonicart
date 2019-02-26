@@ -1,7 +1,7 @@
 # sonicart
 ABSTRACT:
 <br>
-Keywords: natural sounds, modern-day habitat, everyday sounds, John Cage, recording, composition, sound manipulation
+Keywords: ambient sounds, human habitat sounds, everyday sounds, John Cage, recording sound, sample based composition, sample manipulation
 <br>
 Week 2 (w/c 2019-02-04)
 <br>
