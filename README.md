@@ -39,7 +39,7 @@ Week 4 (w/c 2019-02-18)
 <br>
 todo:
 - Brainstorm more specifically in order to find an idea for a project that will be of personal interst
-- Listen to the 'Akimbo' podcast S.3 Episodes 18 & 19 on the meaning of art and the idea of what is considered 'normal'.
+- Listened to the 'Akimbo' podcast S.3 Episodes 18 & 19 on the meaning of art and the idea of what is considered 'normal'.
 <br>
 2019-02-21 (Thu)
 <br>
