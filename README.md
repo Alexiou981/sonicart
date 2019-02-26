@@ -1,4 +1,8 @@
 # sonicart
+ABSTRACT:
+<br>
+Keywords: natural sounds, modern-day habitat, everyday sounds, John Cage, recording, composition, sound manipulation
+<br>
 Week 2 (w/c 2019-02-04)
 <br>
 todo:
