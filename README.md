@@ -4,9 +4,15 @@ ABSTRACT:
 My sonic art project will be based around John Cages idea of music from his piece 4'33'', as he stated, the music in that specific piece is any sound that occurs throughout its' duration. My approach to it will be slightly different as I will record different random sounds that occur throughout an ordinary day in my life such us making some coffee, locking and unlocking the door of my room, handling the microwave/oven in my workplace etc. I believe that in the past few years we humans have been dependent on the use of technology and listening to music/podcasts on our portable devices that we do not pay too much attention on specific sounds that we listen to on a daily basis, whatsoever. Possibly that ignorance happens instinctively or due to the fact that we subconsiously decide not to focus on these sounds. If done correctly and if I manage to achieve the outcome that I am aiming for then possibly that specific composition will trigger the listener into paying attention to these sounds in their daily lives hence being more in the moment. 
 <br>
 <br>
+My sonic art project will be based around John Cages idea of "Silence" from his piece 4'33'', as he stated, music is any sound that occurs throughout the duration of it. My approach to it will be different as I will record different sounds that occur throughout an ordinary day in my life such us making coffee, locking and unlocking the door of my room, handling the microwave/oven in my workplace etc. I believe that in the past few years we humans have been dependent on the use of technology and listening to music/podcasts on our portable devices that we subconsciously ignore specific sounds that occur on our daily basis, whatsoever. Possibly that ignorance is caused due to the fact that we instinctively decide not to focus on these sounds. Through this project I am aiming to possibly trigger the listener into paying more attention to these sounds in their daily lives and being more in the moment, experiencing reality in its purest form. 
+<br>
+<br>
 Keywords: ambient sounds, human habitat sounds, everyday sounds, John Cage, recording sound, sample based composition, sample manipulation
 <br>
 <br>
+Keywords (updated): John Cage, Zen Buddhism and Art, Field Recording, Silence, Present Moment, Ambience.
+<br>
+<br> 
 Week 2 (w/c 2019-02-04)
 <br>
 todo:
