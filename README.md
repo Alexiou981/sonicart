@@ -62,9 +62,20 @@ Week 5 (w/c 2019-02-25)
 todo:
 - Write down the keywords that define the Sonic Art project that I will be wokring on.
 - Write down the abstract describing what the project will be based on.
-- Use these keywords to find material to research on such as google scholar, the online library and the University library.
-- Have a look to previous years projects to get some ideas/inspiration.
 <br>
 2019-02-26 (Tue)
 <br>
-Written down keywords and the abstract that define the idea and the reasoning behind my Sonic Art project.
+Written down keywords and the abstract that define the idea and the reasoning behind my Sonic Art project.(see top of the page)
+<br>
+<br>
+
+Week 6 (w/c 2019-03-04)
+<br> 
+- Use these keywords to find material to research on such as google scholar, the online library and the University library.
+- Have a look to previous years projects to get some ideas/inspiration.
+<br>
+
+Week 7 (w/c 2019-03-11)
+<br>
+- Refine the abstract according to the research made.
+- Record the sounds that will be used for the final project.
