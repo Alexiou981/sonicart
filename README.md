@@ -87,3 +87,13 @@ Week 7 (w/c 2019-03-11)
 <br>
 - Refine the abstract according to the research made.
 - Record the sounds that will be used for the final project.
+<br>
+REFERENCES:
+<br>
+John Cage's intervie on what is silence:
+<br>
+https://www.youtube.com/watch?v=pcHnL7aS64Y
+<br>
+Neuroscience of Meditation (explanation of the importance of being in the present moment)
+<br>
+https://www.hindawi.com/journals/tswj/2006/740623/abs/
