@@ -15,7 +15,6 @@ In a fast-paced modern society where time is the most precious value in an ordin
 <br>
 
 # Video Explanation of the Unnoticed Sounds
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bZC25EGJ1uw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
