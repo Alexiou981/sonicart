@@ -6,25 +6,18 @@
 ## Evangelos Alexiou - 1618795
 ### Abstract
 
-This work ... *ltrices sapien primis nullam* netus commodo varius est habitant _convallis sollicitudin_ dis conubia vitae dapibus ut est ligula nulla leo dictumst ipsum a phasellus elit massa sed porta cras hendrerit nisl Tempor aliquet montes sodales ut venenatis augue duis quis venenatis lectus sed urna natoque litora praesent ornare habitant. Sodales orci inceptos litora, fermentum fames Orci sit. Vestibulum viverra tristique dictumst habitasse ante nibh. Turpis pede viverra elementum. Sapien. Libero turpis. Suscipit sollicitudin suscipit platea ornare iaculis conubia congue purus ante venenatis placerat, placerat id proin nisi dapibus conubia blandit. ... John Cage... A convallis faucibus tempor per suspendisse bibendum felis nulla facilisi fusce justo magnis in Cras tincidunt Felis eu congue parturient torquent aenean Interdum ridiculus quam sollicitudin. Penatibus et proin elit porta purus cursus sodales euismod. 
+In a fast-paced modern society where time is the most precious value in an ordinary person’s life, we, humans tend to live as a result of our memories by either worrying about the past for what has happened or being anxious about the future for what is about to happen. As a result, it seems as if we are kind of ignoring the most precious thing that life has to offer which is the present moment, being present and focusing on what is happening right now and how to make the most out of it instead of overthinking about the past and/or future. Due to my high appeal in meditation, mindfulness and experiencing reality in the present moment I decided to create a project based upon these particular terms. The title of the project is “The Unnoticed Sounds” and the inspiration for it came to my mind when I have had come across John Cage’s popular piece 4’33’’ in which he created a “silent” piece. As he explained the piece is not silent, instead, the music of the piece is any sound that will occur throughout its duration, either that will be somebody coughing or the noise of the traffic. What is fascinating and unique about this piece he said is that when you listen to a classical piece of music it will sound the same no matter how many times you listen to it but 4’33” will never sound the same because it is impossible for one to predict which sounds will take place when the piece is being performed. However, for my project I did not create a silent piece, instead, I recorded some of the sounds that happen on a daily basis around me yet I subconsciously ignore them probably due to the fact that my brain is so used to these sounds. The recordings include sounds from my house and my workplace, with some of them being the sound of the kettle while boiling some water, the deep fryer at work, etc. After I recorded these sounds, I arranged them in a specific order from start to finish, just as they happen in real life from the beginning of the day till the end of it. My main aim from this project is for people who will listen to it to be able to understand the principle behind it and then apply it in their own life with their own approach to it, hence being more in the moment and making the most out of it.
 
-> Ramakrishna it was who said all religions are the same, like a lake to which people who are thirsty come from different directions, calling its water by different names. Furthermore this water has many different tastes. The taste of Zen for me comes from the admixture of humor, intransigence, and detachment. It makes me think of Marcel Duchamp, though for him we would have to add the erotic. 
-~ John Cage: [An Autobiographical Statement](https://www.johncage.org/autobiographical_statement.html)
+<br>
+<head>
+<link rel="stylesheet" href="css/style.css" />
+</head>
 
-Sem per ornare malesuada nullam ad laoreet mauris. Lectus facilisis elit, tortor. Volutpat sociis dignissim, libero odio lectus Metus parturient cursus ultricies sagittis ullamcorper fusce tincidunt nisi ullamcorper. Nec cubilia malesuada pretium eros posuere cursus ante sollicitudin. Ante. Orci euismod malesuada dis mus eget ultrices, magna. Neque semper conubia rhoncus turpis fusce aptent sociosqu. Vitae dolor nulla pede arcu orci. Eros cras. Nostra fusce mauris lobortis parturient. Sociosqu cursus conubia libero luctus dapibus quam. Arcu. Leo ridiculus. Consequat risus quis posuere. Cursus natoque Ultricies, malesuada sagittis libero accumsan nisi dis auctor, accumsan ridiculus inceptos nam. Nisi amet tortor. Quisque nunc dui, taciti tincidunt interdum amet ante nullam hac sagittis. Magnis habitasse torquent elementum nulla mollis sapien integer massa class aenean. Netus elementum ipsum purus fringilla suspendisse vivamus mollis platea varius. Maecenas odio quis semper. Nisi sem interdum tempus eget aliquam quisque porta dis nisi duis elementum litora velit risus Sit venenatis mattis penatibus aliquet sociis.
-
-![picture 1](images/long.jpg)
-
-* this 
-* that
-* what else
-
-
-Magna. Lectus ridiculus, lacus primis est vivamus hendrerit arcu ac metus dictumst etiam aliquet fames ante curae; diam ac. Hymenaeos amet hac. Proin montes in mattis. Dui eu gravida. Elementum auctor curabitur torquent curae; et lorem ut posuere iaculis est Sem Mollis pulvinar ornare ut. Inceptos, vitae eros suspendisse. Dapibus proin facilisi. Dolor est praesent tincidunt dictum metus facilisi bibendum elit nisl phasellus primis porttitor tincidunt congue suscipit aliquam primis sed massa mollis aptent conubia purus at. Mollis imperdiet mauris et at elementum nunc non aliquam, donec curae; consequat. Lacus lobortis. Venenatis pharetra nunc duis mi ut urna. Euismod urna iaculis consequat cum accumsan leo gravida nisl. Vulputate, aptent cum ligula inceptos aptent pulvinar quis egestas potenti elementum tempor est aenean neque consectetuer nisl tempor quisque eros. Cum. Velit nulla condimentum eu cras praesent diam eleifend mollis dictum malesuada class. Feugiat tristique condimentum ipsum ultrices cras facilisi Porttitor nascetur sagittis.
-
+# Video Explanation of the Unnoticed Sounds
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bZC25EGJ1uw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
+## Unnoticed Sounds Composition
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Falex_sander_music%2Funnoticed-sounds-sonic-art-project%2F" frameborder="0" ></iframe>
