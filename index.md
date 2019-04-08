@@ -26,5 +26,16 @@ In a fast-paced modern society where time is the most precious value in an ordin
 <head>
 <link rel="stylesheet" href="css/style.css" />
 </head>
+
 # References
+John Cage's interview on what is silence:
+<br>
+https://www.youtube.com/watch?v=pcHnL7aS64Y
+<br>
+Neuroscience of Meditation (explanation of the importance of being in the present moment)
+<br>
+https://www.hindawi.com/journals/tswj/2006/740623/abs/
+<br>
+
+
 
