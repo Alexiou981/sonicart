@@ -24,7 +24,7 @@ Week 9 (w/c 2019-03-25)
 2019-03-29 (Fri)
 <br>
 
-The video recording can be found on the URL of the website.
+The video recording was uploaded on Youtube and then embeded on the website.
 <br>
 
 Week 8 (w/c 2019-03-18)
