@@ -30,7 +30,7 @@ The video recording was uploaded on Youtube and then embeded on the website.
 Week 8 (w/c 2019-03-18)
 <br>
 - Organise all the recorded sounds and put them into the DAW for the arrangementn session.
-- Look into Github tutorials on how turn a repository into a website.
+- Look into Github tutorials on how to turn a repository into a website.
 - Check the difference between markdown and html files.
 <br>
 2019-03-22 (Fri)
@@ -67,7 +67,7 @@ Week 6 (w/c 2019-03-04)
 
 REFERENCES:
 <br>
-John Cage's intervie on what is silence:
+John Cage's interview on what is silence:
 <br>
 https://www.youtube.com/watch?v=pcHnL7aS64Y
 <br>
