@@ -14,6 +14,9 @@ However, for my project I did not create a silent piece, instead, I recorded som
 
 My main aim from this project is for people who will listen to it to be able to understand the principle behind it and then apply it in their own life with their own approach to it. There is not a strict guideline on how one should listen to this piece, it could be focused listening by using headphones and eliminating all other sounds around it or it can be playing in the background while one is multitasking.
 
+### Keywords: 
+John Cage, Zen Buddhism and Art, Field Recording, Silence, Present Moment, Ambience. 
+
 <br>
 <head>
 <link rel="stylesheet" href="css/style.css" />
